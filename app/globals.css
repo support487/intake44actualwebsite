@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  min-height: 100vh;
+  background-color: #e6e2de;
+  color: #0f172a;
+  font-feature-settings: "rlig" 1, "calt" 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.prose {
+  max-width: 65ch;
+  line-height: 1.7;
+}
+
+html {
+  scroll-behavior: smooth;
+}
