@@ -240,14 +240,14 @@ export default function DocumentationPage() {
                         <div className="border border-slate-200 rounded-lg p-6">
                           <h3 className="text-xl font-semibold text-slate-900 mb-4">Step 1: Sign Up</h3>
                           <p className="text-slate-600 mb-4">
-                            Create your Paywoll account using just your email address. We'll send you a magic link to sign in - no passwords to remember!
+                            Create your Paywoll account using just your email address. We&apos;ll send you a magic link to sign in - no passwords to remember!
                           </p>
                         </div>
                         
                         <div className="border border-slate-200 rounded-lg p-6">
                           <h3 className="text-xl font-semibold text-slate-900 mb-4">Step 2: Connect Stripe</h3>
                           <p className="text-slate-600 mb-4">
-                            You'll need a Stripe account to process payments. Don&apos;t have one? Don&apos;t worry - Stripe is free to set up and is the most trusted payment processor used by millions of businesses.
+                            You&apos;ll need a Stripe account to process payments. Don&apos;t have one? Don&apos;t worry - Stripe is free to set up and is the most trusted payment processor used by millions of businesses.
                           </p>
                           
                           <div className="bg-slate-50 border border-slate-200 rounded-lg p-4 mt-4">
@@ -271,7 +271,7 @@ export default function DocumentationPage() {
                       
                       <div className="space-y-6">
                         <div>
-                          <h3 className="text-xl font-semibold text-slate-900 mb-4">What You'll Need</h3>
+                          <h3 className="text-xl font-semibold text-slate-900 mb-4">What You&apos;ll Need</h3>
                           <div className="bg-slate-50 rounded-lg p-6 border border-slate-200">
                             <ul className="space-y-3 text-slate-700">
                               <li className="flex items-start space-x-3">
@@ -280,7 +280,7 @@ export default function DocumentationPage() {
                               </li>
                               <li className="flex items-start space-x-3">
                                 <div className="w-2 h-2 bg-slate-900 rounded-full mt-2"></div>
-                                <span><strong>Stripe Price ID:</strong> From your Stripe dashboard (looks like "price_1234...")</span>
+                                <span><strong>Stripe Price ID:</strong> From your Stripe dashboard (looks like &quot;price_1234...&quot;)</span>
                               </li>
                               <li className="flex items-start space-x-3">
                                 <div className="w-2 h-2 bg-slate-900 rounded-full mt-2"></div>
@@ -293,12 +293,12 @@ export default function DocumentationPage() {
                         <div>
                           <h3 className="text-xl font-semibold text-slate-900 mb-4">Creating the Paywall</h3>
                           <ol className="list-decimal list-inside space-y-3 text-slate-600">
-                            <li>Go to your dashboard and click "Create New Paywall"</li>
+                            <li>Go to your dashboard and click &quot;Create New Paywall&quot;</li>
                             <li>Enter a unique name for your paywall</li>
                             <li>Paste your content URL</li>
                             <li>Enter your Stripe Price ID</li>
                             <li>Choose your payment mode</li>
-                            <li>Click "Create Paywall"</li>
+                            <li>Click &quot;Create Paywall&quot;</li>
                           </ol>
                         </div>
                         
@@ -318,7 +318,7 @@ export default function DocumentationPage() {
                         <div>
                           <h3 className="text-xl font-semibold text-slate-900 mb-4">Why Stripe?</h3>
                           <p className="text-slate-600 mb-4">
-                            Stripe is the world's most trusted payment processor, handling billions of dollars in transactions for businesses of all sizes. When someone pays through your paywall, the money goes directly to your Stripe account, not ours.
+                            Stripe is the world&apos;s most trusted payment processor, handling billions of dollars in transactions for businesses of all sizes. When someone pays through your paywall, the money goes directly to your Stripe account, not ours.
                           </p>
                         </div>
                         
