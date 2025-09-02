@@ -27,7 +27,7 @@ export default function Header() {
               height={120}
               className="rounded-md"
             />
-            <span className="text-lg font-semibold text-slate-900">Intake44</span>
+            <span className="hidden sm:block text-lg font-semibold text-slate-900">Intake44</span>
           </Link>
 
           <nav className="flex items-center gap-6">
@@ -39,6 +39,9 @@ export default function Header() {
             </Link>
             <Link href="/projects" className={linkClass('/projects')}>
               Projects
+            </Link>
+            <Link href="/documentation" className={linkClass('/documentation')}>
+              Documentation
             </Link>
             <Link href="/contact" className={linkClass('/contact')}>
               Contact
