@@ -22,7 +22,7 @@ export const projects: Project[] = [
     status: 'In Progress',
     description:
       'An opinionated follow-up assistant so reps never drop the ball. Sequencing that\'s humane, effective, and simple.',
-    href: 'mailto:support@intake44.com?subject=Waitlist%20Request%20-%20Sales%20Follow-Ups',
+    href: 'https://forms.gle/3yUScK8gSLApyuse7',
     external: true,
     tags: ['Sales Ops', 'Email', 'Productivity'],
   },

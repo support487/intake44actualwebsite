@@ -29,7 +29,7 @@ export default function HomePage() {
               Explore Paywoll →
             </a>
             <a
-              href="mailto:support@intake44.com?subject=Waitlist%20Request%20-%20Next%20App"
+              href="https://forms.gle/3yUScK8gSLApyuse7"
               className="inline-flex items-center justify-center rounded-lg border border-slate-300 bg-white/70 text-slate-900 px-6 py-3 font-medium hover:bg-white/90 transition"
             >
               Join the Next App Waitlist
@@ -59,7 +59,7 @@ export default function HomePage() {
             name="Sales Follow-Ups"
             status="Coming Soon"
             description="An opinionated follow-up assistant so reps never drop the ball."
-            href="mailto:support@intake44.com?subject=Waitlist%20Request%20-%20Sales%20Follow-Ups"
+            href="https://forms.gle/3yUScK8gSLApyuse7"
             external={true}
           />
         </div>

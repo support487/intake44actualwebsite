@@ -52,7 +52,7 @@ export default function ContactPage() {
               Visit Paywoll →
             </a>
             <a
-              href="mailto:support@intake44.com?subject=Waitlist%20Request%20-%20Sales%20Follow-Ups"
+              href="https://forms.gle/3yUScK8gSLApyuse7"
               className="inline-flex items-center justify-center rounded-lg border border-slate-300 bg-white/70 text-slate-900 px-4 py-2 text-sm font-medium hover:bg-white/90 transition"
             >
               Join Sales Follow-Ups Waitlist
