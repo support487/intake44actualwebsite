@@ -368,7 +368,7 @@ export default function DocumentationPage() {
                           <h3 className="font-semibold text-slate-900 mb-2">Starter</h3>
                           <p className="text-2xl font-bold text-slate-900 mb-4">Free</p>
                           <ul className="space-y-2 text-slate-600 text-sm">
-                            <li>• Up to 3 paywalls</li>
+                            <li>• 1 paywall</li>
                             <li>• Basic analytics</li>
                             <li>• Paywoll branding</li>
                           </ul>
@@ -382,7 +382,7 @@ export default function DocumentationPage() {
                           <h3 className="font-semibold text-slate-900 mb-2">Pro</h3>
                           <p className="text-2xl font-bold text-slate-900 mb-4">$19/month</p>
                           <ul className="space-y-2 text-slate-600 text-sm">
-                            <li>• Unlimited paywalls</li>
+                            <li>• 3 paywalls</li>
                             <li>• Advanced analytics</li>
                             <li>• Priority support</li>
                           </ul>
@@ -391,7 +391,7 @@ export default function DocumentationPage() {
                           <h3 className="font-semibold text-slate-900 mb-2">Agency</h3>
                           <p className="text-2xl font-bold text-slate-900 mb-4">$49/month</p>
                           <ul className="space-y-2 text-slate-600 text-sm">
-                            <li>• Everything in Pro</li>
+                            <li>• 15 paywalls</li>
                             <li>• Custom domains</li>
                             <li>• White-label branding</li>
                             <li>• Multiple team members</li>
