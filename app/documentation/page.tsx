@@ -247,12 +247,12 @@ export default function DocumentationPage() {
                         <div className="border border-slate-200 rounded-lg p-6">
                           <h3 className="text-xl font-semibold text-slate-900 mb-4">Step 2: Connect Stripe</h3>
                           <p className="text-slate-600 mb-4">
-                            You'll need a Stripe account to process payments. Don't have one? Don't worry - Stripe is free to set up and is the most trusted payment processor used by millions of businesses.
+                            You'll need a Stripe account to process payments. Don&apos;t have one? Don&apos;t worry - Stripe is free to set up and is the most trusted payment processor used by millions of businesses.
                           </p>
                           
                           <div className="bg-slate-50 border border-slate-200 rounded-lg p-4 mt-4">
                             <p className="text-slate-700 text-sm">
-                              <strong>New to Stripe?</strong> Visit stripe.com to create your free account. You'll need to create "Products" and "Prices" for your content.
+                              <strong>New to Stripe?</strong> Visit stripe.com to create your free account. You&apos;ll need to create &quot;Products&quot; and &quot;Prices&quot; for your content.
                             </p>
                           </div>
                         </div>
@@ -305,7 +305,7 @@ export default function DocumentationPage() {
                         <div className="bg-slate-50 border border-slate-200 rounded-lg p-6">
                           <h4 className="font-semibold text-slate-900 mb-2">Success! 🎉</h4>
                           <p className="text-slate-700 text-sm">
-                            Your paywall is now live! You'll get a link like <code className="bg-white px-2 py-1 rounded text-xs border border-slate-200">paywoll.com/your-paywall-name</code> that you can share anywhere.
+                            Your paywall is now live! You&apos;ll get a link like <code className="bg-white px-2 py-1 rounded text-xs border border-slate-200">paywoll.com/your-paywall-name</code> that you can share anywhere.
                           </p>
                         </div>
                       </div>
@@ -328,9 +328,9 @@ export default function DocumentationPage() {
                             <h4 className="font-semibold text-slate-900 mb-3">In Your Stripe Dashboard:</h4>
                             <ol className="list-decimal list-inside space-y-2 text-slate-700 text-sm">
                               <li>Go to Products → Add Product</li>
-                              <li>Name your product (e.g., "Premium Blog Post", "Video Course")</li>
+                              <li>Name your product (e.g., &quot;Premium Blog Post&quot;, &quot;Video Course&quot;)</li>
                               <li>Set your price (one-time payment or subscription)</li>
-                              <li>Save the product and copy the "Price ID" (starts with "price_")</li>
+                              <li>Save the product and copy the &quot;Price ID&quot; (starts with &quot;price_&quot;)</li>
                               <li>Use this Price ID when creating your paywall</li>
                             </ol>
                           </div>
@@ -342,11 +342,11 @@ export default function DocumentationPage() {
                       <h2 className="text-3xl font-bold text-slate-900 mb-6">Sharing Your Protected Content</h2>
                       
                       <p className="text-slate-600 mb-6">
-                        Once your paywall is created, you'll get a special link that you can share anywhere instead of your direct content link.
+                        Once your paywall is created, you&apos;ll get a special link that you can share anywhere instead of your direct content link.
                       </p>
                       
                       <div className="bg-slate-900 text-white p-4 rounded-lg mb-6 font-mono text-sm">
-                        <div className="mb-2">❌ Don't share: https://yoursite.com/premium-article</div>
+                        <div className="mb-2">❌ Don&apos;t share: https://yoursite.com/premium-article</div>
                         <div>✅ Share this: https://paywoll.com/your-paywall-name</div>
                       </div>
                       
@@ -404,7 +404,7 @@ export default function DocumentationPage() {
                       <h2 className="text-3xl font-bold text-slate-900 mb-6">Need More Help?</h2>
                       
                       <p className="text-slate-600 mb-4">
-                        We're here to help! Pro and Agency plan users get priority email support with faster response times.
+                        We&apos;re here to help! Pro and Agency plan users get priority email support with faster response times.
                       </p>
                       
                       <p className="text-slate-600 mb-6">
